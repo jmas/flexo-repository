@@ -1,0 +1,19 @@
+[
+    {
+        "repo": {
+            "github": "git@github.com:jmas\/flexo-module-example.git"
+        },
+        "manifest": {
+            "id": "Flexo\\Module\\Example\\Module",
+            "name": "Flexo Example",
+            "authors": [
+                {
+                    "name": "Alex Maslakov",
+                    "email": "jmas.ukraine@gmail.com",
+                    "website": "http:\/\/flexo.github.io"
+                }
+            ],
+            "description": "Provide module example."
+        }
+    }
+]

@@ -1,0 +1,13 @@
+{
+    "name": "jmas/flexo-repository",
+    "description": "Flexo modules repository.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Maslakov Alexander",
+            "email": "jmas.ukraine@gmail.com"
+        }
+    ],
+    "require": {}
+}
